@@ -1,0 +1,7 @@
+path: C:\Users\Aser\PycharmProjects\torch-yolo\Apples_Detection\Aplles_learning
+
+train: train/images
+val: train/images  # Используем те же данные для валидации
+
+names: 
+  0: apple
